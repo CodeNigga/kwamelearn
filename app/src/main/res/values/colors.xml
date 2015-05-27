@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_background_red">#fff94646</color>
+    <color name="holo_background_green">#ff98cb01</color>
+    <color name="holo_background_yellow">#fffdba33</color>
+    <color name="holo_background_blue">#ff0198cb</color>
+</resources>

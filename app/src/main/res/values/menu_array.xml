@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="menu_array_minus">
+        <item>Play Subtraction</item>
+        <item>Next Level</item>
+        <item>Previous Level</item>
+    </array>
+
+    <array name="menu_array_plus">
+        <item>Play Addition</item>
+        <item>Next Level</item>
+        <item>Previous Level</item>
+    </array>
+</resources>

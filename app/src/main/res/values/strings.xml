@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KwameLearn</string>
+    <string name="start">Start</string>
+    <string name="c">C</string>
+    <string name="done">Done</string>
+
+    <string name="level_head">L E V E L</string>
+
+    <string name="next_level">Next Level</string>
+    <string name="prev_level">Previous Level</string>
+
+    <string name="dash">___</string>
+</resources>

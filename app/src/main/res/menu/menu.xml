@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/prev_level"
+        android:id="@+id/prev_level"
+        android:icon="@android:drawable/ic_media_previous"/>
+
+    <item android:id="@+id/next_level"
+          android:title="@string/next_level"
+        android:icon="@android:drawable/ic_media_next"/>
+</menu>
